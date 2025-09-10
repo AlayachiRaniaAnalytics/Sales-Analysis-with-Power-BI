@@ -94,6 +94,7 @@ I built several dashboards in Power BI to visualize performance:
 [Power BI Project File](Projet-Sales.pbix) 
 [Detailed Project Design Document](sales.pdf)
 
+
 ---
 
 ## 📈 Results & Insights
