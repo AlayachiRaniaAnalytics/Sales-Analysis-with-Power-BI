@@ -97,6 +97,14 @@ I built several dashboards in Power BI to visualize performance:
 
 ---
 
+## 🏗️ Technical Architecture  
+This section illustrates the technical architecture followed in the project.  
+
+![Technical Architecture](architecture.png)  
+*Figure: Overview of the data flow, ETL process, and Power BI reporting architecture.*
+
+---
+
 ## 📈 Results & Insights
 
 * **Furniture** is the largest sales contributor, while **Technology** generates the highest profit.
