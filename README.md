@@ -87,9 +87,11 @@ I built several dashboards in Power BI to visualize performance:
 * **Performance KPIs**: Variance vs Prior Year and Variance vs Budget.
 
 
-![Sales Dashboard](Projet-Sales.pdf)
-![ProjetSales Dashboard](Projet-Sales.pbix)
 
+📌 Project files:  
+
+[Sales Dashboard PDF](Projet-Sales.pdf)  
+[Power BI Project File](Projet-Sales.pbix) 
 
 ---
 
