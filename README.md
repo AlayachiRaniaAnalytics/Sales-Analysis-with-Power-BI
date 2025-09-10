@@ -12,6 +12,7 @@
 4. [Dashboards](#dashboards)
 5. [Results & Insights](#results--insights)
 6. [Limitations & Improvements](#limitations--improvements)
+7. [Author](#author)
 
 ---
 
@@ -104,11 +105,13 @@ I built several dashboards in Power BI to visualize performance:
 **Overall Sales Analysis Page:**
 ![Overall Sales Analysis](Global.png) 
 
-📌 Project files:  
+📌 **Project Files:** 
 
-[Sales Dashboard PDF](Projet-Sales.pdf)  
-[Power BI Project File](Projet-Sales.pbix) 
-[Detailed Project Design Document](sales.pdf)
+-[Sales Dashboard PDF](Projet-Sales.pdf)  
+
+-[Power BI Project File](Projet-Sales.pbix) 
+
+-[Detailed Project Design Document](sales.pdf)
 
 
 ---
@@ -135,3 +138,11 @@ This section illustrates the technical architecture followed in the project.
 * The current dataset is historical; a real-time refresh could be implemented via **Power BI Service**.
 * Include **forecasting models** for predictive insights.
 * Implement **Row-Level Security (RLS)** to restrict access by user in Power BI Service.
+
+---
+
+## 👩‍💻 Author  
+
+**Rania Alayachi**  
+📧 alayachi.rania23@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/rania-al-ayachi/)  
