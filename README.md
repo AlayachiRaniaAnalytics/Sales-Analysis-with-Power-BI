@@ -92,6 +92,7 @@ I built several dashboards in Power BI to visualize performance:
 
 [Sales Dashboard PDF](Projet-Sales.pdf)  
 [Power BI Project File](Projet-Sales.pbix) 
+[Detailed Project Design Document](sales.pdf)
 
 ---
 
