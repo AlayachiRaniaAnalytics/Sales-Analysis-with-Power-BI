@@ -86,7 +86,23 @@ I built several dashboards in Power BI to visualize performance:
 * **Geographical Analysis**: Sales and Profit by Region, State, and City.
 * **Performance KPIs**: Variance vs Prior Year and Variance vs Budget.
 
+📌 **Screenshot Example:**
 
+**Home Page:**
+
+![Home](home.png)  
+
+**Sales VS Profit Page:**
+![Profit](profit.png) 
+
+**Sales VS Budget Page:**
+![Budget](Budget.png) 
+
+**Sales Comparison Page:**
+![Sales Comparison](vente.png) 
+
+**Overall Sales Analysis Page:**
+![Overall Sales Analysis](Global.png) 
 
 📌 Project files:  
 
