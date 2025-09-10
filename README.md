@@ -45,7 +45,7 @@ I applied several transformations to prepare the data for analysis:
 
 The project uses a **Star Schema** approach:
 
-* **Fact Table**: Sales
+* **Fact Table**: data
 * **Dimension Tables**: Date, Product, Customer, Region, Category
 * Defined relationships to ensure accurate aggregations and filtering.
 * Added hierarchies (Year → Quarter → Month) for drill-down analysis.
